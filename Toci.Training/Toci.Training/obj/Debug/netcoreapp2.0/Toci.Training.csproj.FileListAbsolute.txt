@@ -1,0 +1,4 @@
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.csprojResolveAssemblyReference.cache
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.csproj.CoreCompileInputs.cache
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.AssemblyInfoInputs.cache
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.AssemblyInfo.cs
