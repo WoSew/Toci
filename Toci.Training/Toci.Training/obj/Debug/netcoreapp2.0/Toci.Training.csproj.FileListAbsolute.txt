@@ -2,3 +2,10 @@ D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Trai
 D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.csproj.CoreCompileInputs.cache
 D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.AssemblyInfoInputs.cache
 D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.AssemblyInfo.cs
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\bin\Debug\netcoreapp2.0\Toci.Training.deps.json
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\bin\Debug\netcoreapp2.0\Toci.Training.runtimeconfig.json
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\bin\Debug\netcoreapp2.0\Toci.Training.runtimeconfig.dev.json
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\bin\Debug\netcoreapp2.0\Toci.Training.dll
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\bin\Debug\netcoreapp2.0\Toci.Training.pdb
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.dll
+D:\01_Toci\96_Toci\Toci.Training\Toci.Training\obj\Debug\netcoreapp2.0\Toci.Training.pdb
