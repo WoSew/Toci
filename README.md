@@ -5,13 +5,11 @@ The repository contains several selected console application created in Visual S
 
 In July, August and September 2017, I was a participant in the online course run by Bartłomiej Zapart. Classes were conducted in the form of weekend webinars. About 60 participants took part in the training, after the first lesson I took over the mentor's position.
 
-## What is the purpose of learning?
+## What is the purpose of learning and what did I learn?
 
-Understanding the basics of the C# language.
+* Understanding the basics of the C# language.
 
-## What did I learn?
-
-During the training I took the role of a mentor. I helped 8 people with their homework and understanding of lectures. It was a great teamwork lesson, overcoming barriers and understanding of the topic.
+* During the training I took the role of a mentor. I helped 8 people with their homework and understanding of lectures. It was a great teamwork lesson, overcoming barriers and understanding of the topic.
 
 
 ## Agenda
