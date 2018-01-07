@@ -9,7 +9,7 @@ In July, August and September 2017, I was a participant in the online course run
 
 Understanding the basics of the C# language.
 
-*What did I learn?
+## What did I learn?
 
 During the training I took the role of a mentor. I helped 8 people with their homework and understanding of lectures. It was a great teamwork lesson, overcoming barriers and understanding of the topic.
 
