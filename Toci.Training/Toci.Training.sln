@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toci.Training", "Toci.Training\Toci.Training.csproj", "{18D9DF9F-64B3-4B69-AE2E-50829C1B7F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D9DF9F-64B3-4B69-AE2E-50829C1B7F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D9DF9F-64B3-4B69-AE2E-50829C1B7F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D9DF9F-64B3-4B69-AE2E-50829C1B7F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D9DF9F-64B3-4B69-AE2E-50829C1B7F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77231B44-80BC-4E78-B46D-E789DCC93658}
+	EndGlobalSection
+EndGlobal
